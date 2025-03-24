@@ -1,7 +1,8 @@
 ﻿'Alexis Villagran
 'RCET 2265
 'Spring 2025
-'Address Label
+'Diner Menu
+'https://github.com/alxsvxn/DinerMenu.git
 
 Option Strict On
 Option Explicit On
